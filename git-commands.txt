@@ -1,0 +1,30 @@
+python .\testing.py
+   3 git init
+   4 ls -a
+   5 Get-ChildItem -Force
+   6 git status
+   7 git status
+   8 git status
+   9 git add .\testing.py
+  10 git status
+  11 git status
+  12 git rm --cached .\testing.py
+  13 git status
+  14 git add .
+  15 git status
+  16 git commit -m "added testing files"
+  17 git status
+  18 git commit -m "added testing files"
+  19 git config --global user.name "Vivek Modh"git config --global user.name "Vivek Modh"
+  20 git commit -m "added testing files"
+  21 git config --global user.name "Vivek Modh"
+  22 git config --global user.email "vivek@example.com"
+  23 git config --global user.email "vivekmodh03@gmail.com"
+  24 git commit -m "added testing files"
+  25 git status
+  26 rm .\testing.py
+  27 git status
+  28 git restore testing.py
+  29 git status
+thiss is the changes
+
