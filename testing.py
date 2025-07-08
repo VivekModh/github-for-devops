@@ -1,5 +1,4 @@
-print ("Hello World")
-print ("This is a test file1")
-print(5+2)
-print("This is a test file2")
-print("This is a test file3")
+"""This module runs test prints for demonstration purposes."""
+
+print("Running tests")
+
